@@ -134,20 +134,10 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
-</div>
-<br>
-<br>
-<br>
-<br>
 
 ---
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=pqbao&label=github&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
+[![](https://visitcount.itsvg.in/api?id=pqbao&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
