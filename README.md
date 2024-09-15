@@ -106,14 +106,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-<br>
 
 <div align='center'>
-
-
-
----
-
-<br>
 
 [![](https://visitcount.itsvg.in/api?id=pqbao&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
