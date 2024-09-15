@@ -55,9 +55,9 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Postman](https://img.shields.io/badge/google-%23F76936.svg?style=for-the-badge&logo=postman&logoColor=white)
-    ![Figma](https://img.shields.io/badge/google-%23EA4C1D.svg?style=for-the-badge&logo=figma&logoColor=white)
-    ![Photoshop](https://img.shields.io/badge/google-%232FA3F7.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+    ![Postman](https://img.shields.io/badge/postman-%23F76936.svg?style=for-the-badge&logo=postman&logoColor=white)
+    ![Figma](https://img.shields.io/badge/figma-%23EA4C1D.svg?style=for-the-badge&logo=figma&logoColor=white)
+    ![Photoshop](https://img.shields.io/photoshop/google-%232FA3F7.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
    
 
 <br>
