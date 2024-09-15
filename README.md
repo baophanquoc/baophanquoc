@@ -48,7 +48,6 @@
    ![Mongodb](https://img.shields.io/badge/mongodb%20-%230FA54D.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![Firebase](https://img.shields.io/badge/firebase%20-%23FFCB2B.svg?style=for-the-badge&logo=firebase&logoColor=black)
  
-
 <br>
 
 - **Softwares and Tools**:
@@ -58,14 +57,9 @@
     ![Postman](https://img.shields.io/badge/postman-%23F76936.svg?style=for-the-badge&logo=postman&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-%23EA4C1D.svg?style=for-the-badge&logo=figma&logoColor=white)
     ![Photoshop](https://img.shields.io/badge/photoshop-%23001D34.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-   
 
 <br>
 
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 </p>
