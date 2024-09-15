@@ -43,11 +43,11 @@
 
 <br>   
     
-- **Front-End Development**:
+- **Database**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Mongodb](https://img.shields.io/badge/mongodb%20-%230FA54D.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![Firebase](https://img.shields.io/badge/firebase%20-%23FFCB2B.svg?style=for-the-badge&logo=firebase&logoColor=black)
+ 
 
 <br>
 
