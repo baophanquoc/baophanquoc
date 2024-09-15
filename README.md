@@ -1,4 +1,4 @@
-
+<img src="https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/header.png">
 <h1 align="center"><b>Hi , I'm Bao</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <p>I'm a Web Developer</p></h1>
 <!--  -->A
 <p align="center">
