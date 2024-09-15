@@ -51,19 +51,14 @@
 
 <br>
 
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Postman](https://img.shields.io/badge/google-%23F76936.svg?style=for-the-badge&logo=postman&logoColor=white)
+    ![Figma](https://img.shields.io/badge/google-%23EA4C1D.svg?style=for-the-badge&logo=figma&logoColor=white)
+    ![Photoshop](https://img.shields.io/badge/google-%232FA3F7.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+   
 
 <br>
 
