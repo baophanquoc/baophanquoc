@@ -58,14 +58,15 @@
 
 - **Softwares and Tools**:
 <br>
-
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Postman](https://img.shields.io/badge/postman-%23F76936.svg?style=for-the-badge&logo=postman&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
     ![Photoshop](https://img.shields.io/badge/photoshop-%23001D34.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+  
 <br>
-</p>
+
 
 <!-- Connect -->
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
