@@ -51,7 +51,6 @@
     
 - **Database**:
 <br>
-
    ![Mongodb](https://img.shields.io/badge/mongodb%20-%230FA54D.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![Firebase](https://img.shields.io/badge/firebase%20-%23FFCB2B.svg?style=for-the-badge&logo=firebase&logoColor=black)
 <br>
@@ -64,8 +63,6 @@
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
     ![Photoshop](https://img.shields.io/badge/photoshop-%23001D34.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-  
-<br>
 
 
 <!-- Connect -->
