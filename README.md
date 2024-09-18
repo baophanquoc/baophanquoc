@@ -57,7 +57,6 @@
 <br>
 
 - **Softwares and Tools**:
-
 <br>
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -65,7 +64,6 @@
     ![Postman](https://img.shields.io/badge/postman-%23F76936.svg?style=for-the-badge&logo=postman&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
     ![Photoshop](https://img.shields.io/badge/photoshop-%23001D34.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
 <br>
 
 <!-- Connect -->
