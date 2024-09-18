@@ -66,6 +66,8 @@
     ![Photoshop](https://img.shields.io/badge/photoshop-%23001D34.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 
+<br>
+<br>
 
 <!-- Connect -->
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
