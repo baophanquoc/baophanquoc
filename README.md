@@ -75,8 +75,6 @@
 	<a href="https://www.facebook.com/100027640774406/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 </p>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 <br>
 
 <div align='center'>
