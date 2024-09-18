@@ -77,6 +77,7 @@
 <br>
 <br>
 
-<div align='left'>
+<p align='left'>
 
 [![](https://visitcount.itsvg.in/api?id=pqbao&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+</p>
