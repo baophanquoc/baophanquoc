@@ -51,12 +51,14 @@
     
 - **Database**:
 <br>
+
    ![Mongodb](https://img.shields.io/badge/mongodb%20-%230FA54D.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    ![Firebase](https://img.shields.io/badge/firebase%20-%23FFCB2B.svg?style=for-the-badge&logo=firebase&logoColor=black)
 <br>
 
 - **Softwares and Tools**:
 <br>
+
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Postman](https://img.shields.io/badge/postman-%23F76936.svg?style=for-the-badge&logo=postman&logoColor=white)
