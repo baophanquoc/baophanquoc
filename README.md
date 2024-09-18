@@ -1,5 +1,9 @@
 <!-- Banner -->
+<!--
 <img src="https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/header.png">
+-->
+<img src="https://drive.google.com/file/d/1xOgArBCGD0ACkEhWP9mxBEUFLwDqza4h/view?usp=sharing">
+
 <br>
 <div align=center>
 
