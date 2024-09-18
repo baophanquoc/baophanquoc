@@ -1,5 +1,13 @@
 <!-- Banner -->
 <img src="https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/header.png">
+<br>
+<div align=center>
+
+[![Gmail](https://img.shields.io/badge/-gmail-446078?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:0xabdulkhaliq@gmail.com)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-linkedin-446078?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/0xabdulkhaliq)&nbsp;
+[![Discord](https://img.shields.io/badge/-Discord-446078?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/984803810885120030)&nbsp; [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-446078?style=for-the-badge&logo=frontendmentor)](https://www.frontendmentor.io/profile/0xabdulkhaliq)
+
+</div>
 <h1 align="center"><b>Hi , I'm Bao</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <p>I'm a Web Developer</p></h1>
 
 
