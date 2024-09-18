@@ -2,7 +2,7 @@
 <!--
 <img src="https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/header.png">
 -->
-<img src="https://drive.google.com/thumbnail?id=1xOgArBCGD0ACkEhWP9mxBEUFLwDqza4h">
+<img src="https://drive.google.com/thumbnail?id=1xOgArBCGD0ACkEhWP9mxBEUFLwDqza4h&sz=w1200">
 
 <br>
 <div align=center>
