@@ -12,7 +12,7 @@
 <br>
 
 <!-- Skills -->
-## <img href="https://img.icons8.com/?size=100&id=Ku3cLD42vk_a&format=png&color=000000"> **About me**
+## <img src="https://img.icons8.com/?size=100&id=Ku3cLD42vk_a&format=png&color=000000"> **About me**
 
 <picture> <img align="right" src="https://threedio-cdn.icons8.com/yqHDbAAuBywPAFcLsUBHbbVvINjhf_ltS1gtux1XBMQ/rs:fit:1024:1024/czM6Ly90aHJlZWRp/by1wcm9kL3ByZXZp/ZXdzLzE1Ni84N2U3/MzJlNi0zZjUwLTRl/MjctOWNjNi0zOTg3/MjYwY2NjMTEucG5n.png" width = 250px></picture>
 
