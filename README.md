@@ -68,8 +68,8 @@
 
 <!-- Connect -->
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-<p>
+<div>
+<p align="right">
 	<a href="https://github.com/pqbao"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/baophanquoc"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/100027640774406/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
@@ -77,6 +77,7 @@
 <br>
 <br>
 
-<p  align="right">
+
 [![](https://visitcount.itsvg.in/api?id=pqbao&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
-</p>
+
+</div>
