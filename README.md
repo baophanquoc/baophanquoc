@@ -56,6 +56,7 @@
    ![Firebase](https://img.shields.io/badge/firebase%20-%23FFCB2B.svg?style=for-the-badge&logo=firebase&logoColor=black)
 <br>
 
+
 - **Softwares and Tools**:
 <br>
 
@@ -70,7 +71,7 @@
 <br>
 <br>
 
-<!-- Connect -->
+
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <p align="center">
