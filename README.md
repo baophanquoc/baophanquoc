@@ -39,6 +39,7 @@
 
  
 - **Technical**:
+  
 <br>
 	
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,7 +59,7 @@
 
 
 - **Softwares and Tools**:
-- 
+  
 <br>
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
