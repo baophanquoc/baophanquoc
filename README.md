@@ -11,7 +11,7 @@
 </p>
 <br>
 
-<!-- Skills -->
+<!-- About me -->
 ## <img src="https://img.icons8.com/?size=100&id=Ku3cLD42vk_a&format=png&color=000000" width="35px"> **About me**
 
 <picture> <img align="right" src="https://threedio-cdn.icons8.com/yqHDbAAuBywPAFcLsUBHbbVvINjhf_ltS1gtux1XBMQ/rs:fit:1024:1024/czM6Ly90aHJlZWRp/by1wcm9kL3ByZXZp/ZXdzLzE1Ni84N2U3/MzJlNi0zZjUwLTRl/MjctOWNjNi0zOTg3/MjYwY2NjMTEucG5n.png" width = 250px></picture>
@@ -25,7 +25,9 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+<!-- Skills -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
